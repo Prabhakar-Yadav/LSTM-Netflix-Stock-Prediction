@@ -43,5 +43,3 @@ To build a deep learning model that predicts the next day’s stock closing pric
 - Matplotlib, Seaborn  
 - TensorFlow / Keras  
 - Jupyter Notebook  
-
-Jupyter Notebook
